@@ -1,4 +1,4 @@
-# 🧠 Employee Salary Prediction App
+# 🧠 Employee Salary Prediction 
 
 This is a machine learning web app built using Streamlit that predicts employee salaries based on features like gender, education, department, and years of experience.
 
